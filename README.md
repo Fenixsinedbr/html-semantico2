@@ -1,4 +1,4 @@
-# html semantico
+`´# html semantico
 ## Dando significado a estrutura da aplicação
 Aqui vamos entender como estruturar nossa aplicação semanticamente 
 
@@ -45,3 +45,32 @@ Ingredientes para almoço
 ![Cachorrinho](https://pipz.com/static/images/blog/eddie.png)
 >Não Faltem!
 >(João Marcos)Citação
+
+Este é um metodo `consle.log()`do javascript.
+
+llllllllll<br>
+
+MMMMMMMMMM
+Esta é uma função javaScript:
+
+```javascript
+function selectionalElemento(){
+const body=document.
+querrySelector('body');
+}
+```
+
+~~~javascript
+function selectionalElemento(){
+const body=document.
+querrySelector('body');
+}
+~~~
+
+Frutas | Doces | Salgados
+:----|:----:|----: 
+banana | Chocolate | Coxinha
+Maça | Bala Juquinha| Esfiha
+uva | Bombom | Tapioca
+
+Esta é uma função javascript
